@@ -4,7 +4,7 @@ import { useState } from 'react';
 function App() {
     return(
         <div>
-            <h1>Hello</h1>
+            <h1>Hello Hi</h1>
         </div>
     )
 }
